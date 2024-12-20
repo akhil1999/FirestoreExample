@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838943180165",
+    "project_id": "firestoreexample-b797c",
+    "storage_bucket": "firestoreexample-b797c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838943180165:android:d7f29433dfb428d41cb0ec",
+        "android_client_info": {
+          "package_name": "com.mfilterit.firestoreexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVq_AfYyGu98kUy_nj8zv6Bkq7VNzpWy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
